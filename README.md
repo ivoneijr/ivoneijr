@@ -39,6 +39,8 @@
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="height: 25px; margin-right: 10px"/>
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" style="height: 25px; margin-right: 10px"/>
   <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" style="height: 25px; margin-right: 10px"/>
+  <img src="https://user-images.githubusercontent.com/2752551/30404910-d56d9b66-989d-11e7-9208-b720eb28b4f2.png" style="height: 25px; margin-right: 10px"/>
+  
   <br/>
   <br/>
 </div>

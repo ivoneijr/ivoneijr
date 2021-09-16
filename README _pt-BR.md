@@ -219,9 +219,32 @@ Durante o desenvolvimento deste serviço, surgiu a necessidade de testar o fluxo
 
 <br/>
 
-### Stack:
+### Stack
 
 Java 7, maven, jpa, hibernate, jdbc, springboot, soap and rest integrations, postgresql, git, ruby, rails, sinatra, rollbar, maillers, express, knex, angular, nginx, memcached, couchDB, TDD (mocha, chai) and some related dependencies.
+
+<br/>
+<br/>
+
+## Aditional Courses
+
+|Description|Hours   |
+|---|---|
+| Java SE  | 30  |
+| Dynamic Java Web Development  |  32 |
+| Object Oriented Development (OOP)  |  20 |
+|  Java Web Developer |  120 |
+|  [JAVA EE] EJB, design patterns, advanced JSP | 20  |
+|  [JAVA EE] JSP and servlets | 20  |
+|  JPA - Java Persistence API MOR | 30  |
+|  UX UI Apps Design para | 20  |
+|  Powering Up With React |  20 |
+| GraphQL: Building professional and flexible APIs |   |
+| Building API's using Node.js, GraphQL, JWT, Sequelize abd Typescript  |   |
+| Go (Golang): Exploring google language|   |
+| Blockchain engineer  |   |
+|   |   |
+
 
 <br/>
 <br/>

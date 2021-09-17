@@ -109,8 +109,54 @@ TODO: ...
 ### **Dentsu World Services (Jan 2020 - Jul 2021)**
 Role: **Innovation Lead / Architect**
 
+I was hired to lead the innovation team acting as a fullstack.
 
+The innovation team is responsible for creating prototypes and proof of concept of different applications, in most cases, built with javascript.
 
+<br/>
+
+#### **Innovation cycles**
+Innovation cycles basically consist of exploring disruptive themes and technologies to create an innovative solution
+
+- **WebAr navigation** - Neste projeto foi explorado o uso de tecnologias web para VR e AR com bibliotecas como threejs e a-frame, react e react fiber.
+
+- **Meet to mail maker** - This project was build from scratch using javascript, basicly, a service to receive an audio and use few integrations to transcript a meeting audio to text and send for invited people,  for this project I used feel integrations as aws, google cloud, and ibm watson.
+
+- **Read 4 you** - Basicly a service to receive an image and integrate with few services to identify what the image is and return a sentence describing it.
+
+- **History blocks** - this project was used to explore and understand how a blockchain works, with this we created our own blockchain with the theme of recording historical facts.
+
+#### **Confidential client**
+Rebuild a survey application using react SSR (nextjs) and integrating with a third party API.
+
+#### **Confidential client**
+Big client from IT industry asked to build a web application to release a promotional products for US market, it was built with react and hooks.
+
+#### **Confidential client**
+Big client from networking industry asked to build a native application, it was built with electronJS.
+
+#### **Confidential client**
+Big client from Water industry, asked to study the entire solution and propose a re-architecture, in this case I set up a team to handle this account and give segment to the project, acting as the team's technical consultant for architectural decisions. (node, react SSR)
+
+#### **Confidential client**
+Big clientfrom telephony industry, asked to create an application to sell devices remotely.
+This POC was built from scratch using node in the backend with websockets and third party integrations for realtime video chats in the browser, the front end was made with react.
+
+#### **Confidential client**
+Big client from the online sales industry, asked to create an application from scratch using 3d browser experience, integrating with third party services. (node, react, threejs, a-frame)
+
+#### **Confidential client**
+Big client from clothing and footwear industry, started an internal project integrating with adobe AEM, this project was written with react and integration libraries with adobe AEM.
+
+#### **Confidential client**
+Big client from car racing industry, asked to create a backend for a web game. This project was built using node with serverless framework running over lambda functions and dynambodb.
+
+#### **Source backoffice**
+I set up a team to create a backoffice application for the company to control office information, such as people, projects, customers, allocations, costs, among others.
+
+This project was built using react with typescript and nodejs for backend stuff, everything running over AWS provider.
+
+<br/>
 <br/>
 
 ### **Iris - Data Drieven Marketing (Jan 2019 - Jan 2020)**

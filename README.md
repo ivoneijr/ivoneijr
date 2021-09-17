@@ -116,15 +116,15 @@ Role: **Innovation Lead / Architect**
 ### **Iris - Data Drieven Marketing (Jan 2019 - Jan 2020)**
 Role: **Full-Stack Software Specialist**
 
-Nessa empresa, o produto final é um CDP (customer data plataform) baseado em big data, o sistema possui um ETL desenvolvido em python, com diversos serviços desenvolvidos em nodejs e um frontend desenvovlido com react e redux.
+In this company, the final product is a CDP (customer data platform) based on big data, the system has an ETL developed in python, with several services developed in nodejs and a frontend developed with react and redux.
 
-Comecei liderando o time de backend, desenvolvendo serviços de importação de dados, api para o frontend, serviços de pub/sub e apis para serem consumidas por terceiros.
+I started leading the backend team, developing data import services, backend for the frontend, pub/sub services and apis to be consumed by third parties.
 
-Nesse momento, participei da prototipação e auxiliando o time na migração da api principal do produto para graphql e typescript.
+At that time, I participated in the prototyping and helping the team in the migration of the main product api to graphql and typescript.
 
-Com o tempo assumi também a posição de liderança tecnica do frontend, prototipando e auxiliando o time a desenvolver o frontend v2 com typescript e graphql.
+Over time I also assumed the position of technical leadership of the frontend, prototyping and helping the team to develop the frontend v2 with typescript and graphql.
 
-Após algum tempo também auxiliei o time de QA a desenvolver um projeto para testes automatizados utilizando ruby.
+After some time I also helped the QA team to develop a project for automated testing using ruby.
 
 <br/>
 
@@ -137,9 +137,9 @@ Git, React, GraphQL, Appollo server and client, styled-components, storybook, no
 ### **Rocket LabPty Ltd (Aug 2018 - Dec 2018)**
 Role: **Frontend Engineer**
 
-Fui contratado como engenheiro frontend para desenvolver um sistema confidencial utilizando react com graphql.
+I was hired as a frontend engineer to develop a confidential system using react with graphql.
 
-Aqui também comecei a entender como funciona o framework graphql e typescript no backend.
+Here I also started to understand how graphql framework and typescript works in the backend.
 
 <br/>
 
@@ -152,7 +152,7 @@ Git, React, GraphQL, Appollo server and client, styled-components, storybook and
 ### **Triider (Dec 2017 - Nov 2018)**
 Role: **Full-Stack Software Engineer**
 
-Aqui, fui responsável pela manutenção e evolução de duas apis desenvolvidas em node e também pela criação de uma aplicação web desenvolvida com react SSR.
+there, I was responsible for the maintenance and evolution of two apis developed in node and also for the creation of a web application developed with react SSR.
 
 <br/>
 
@@ -165,15 +165,15 @@ Node, angular, react, redux, graylog, loggly, AWS environment, (s3, cloudfront, 
 ### **4all (Jul 2017 - Dec 2017)**
 Role: **Full-Stack Software Developer**
 
-Após interagir mais com javascript, movi de empresa para trabalhar com a stack javascript.
+After interacting more deeply with javascript, I moved from company to work with the javascript stack.
 
-Defini, prototipei, reestruturei sistemas e criei uns do scratch.
+I defined, prototyped, restructured systems and created ones from scratch.
 
-Com backend fui responsável pela criação do backend de um serviço de integração com clubes de futebol oficiais, pois o time desenvolvia aplicativos para esses clubes de futebol.
+As a backend I was responsible for creating the backend of an integration service with official soccer clubs, as the team developed mobile apps for these soccer clubs.
 
-Auxiliei o desenvolvimento de aplicativos com react native, e também participei da criação de sites utilizando react com redux.
+I helped the development of applications with react native, and also participated in the creation of websites using react with redux.
 
-Nesta empresa comecei a ter um contato mais próximo de provedores de nuvem como AWS, pois fui responsável pelo build e deploy das soluções desenvolvidas.
+In this company I started to have a closer contact with cloud providers like AWS, as I was responsible for the build and deployment of the developed solutions.
 
 <br/>
 
@@ -186,11 +186,11 @@ Git, Node, react, redux, AWS (s3, cloudfront, rds, ecs).
 ### **Zallpy Group (Sep 2016 - Jul 2017)**
 Role: **Full-Stack Software Developer**
 
-Com base na experiência anterior desenvolvendo com ruby on rails, gostei de trabalhar com esta linguagem e decidi mudar para uma empresa que trabalhasse exclusivamente com essa stack.
+Based on previous experience developing with ruby on rails, I liked working with this language and decided to move to a company that worked exclusively with this stack.
 
-Então, trabalhei em um sistema monolito orientado a testes.
+So I worked on a test-driven monolith system.
 
-Com a evolução do sistema, o time decidiu começar a migrar o frontend desenvolvido com rails para reactjs, foi quando iniciei os estudos sobre react e os manejadores de estado como flux e redux.
+With the evolution of the system, the team decided to start migrating the frontend developed with rails to reactjs, that's when I started studying react and state handlers like flux and redux.
 
 <br/>
 
@@ -206,18 +206,18 @@ Role: **Backend Developer**
 
 ### **ERP**
 
-Um sistema desenvolvido em uma linguagem legada (**clarion**) com banco de dados **ODBC**, neste projeto eu participei como desenvolvedor **java**, criando processos backend para integração de documentos fiscais com o governo federal, na rotina de trabalho estava a manutenção do sistema java com Hibernate utilizando JPA criando xmls assinados digitalmente.
+a system developed in a legacy language (**clarion**) with **ODBC** database, in this project I participated as a **java** developer, creating backend processes for integration of tax documents with the federal government, in work routine was maintenance of the java system with **Hibernate** using **JPA** creating digitally signed xmls.
 
 ### **Cloud POC**
-O sistema era legado e rodava no computador local dos clientes com banco de dados local, nesse ponto, eu participei de um estudo de evolução de arquitetura para nuvem.
+The system was legacy and ran on the customers' local computer with a local database, at that point I participated in a study on the evolution of architecture to the cloud.
 
-Então, implementamos uma prova de conceito utilizando ruby on rails e também com angularjs (a escolha final)
+So, we implemented a proof of concept using ruby on rails and also angularjs (the final choice)
 
-Com a criação de modulos do sistema desenvolvidos na nuvem, foi necessário criar um middleware que rodava na máquina dos clientes para expor o banco de dados local para nuvem e com isso fazer consultas específicas para cada cliente.
+With the creation of system modules developed in the cloud, it was necessary to create a middleware that ran on the clients' machines to expose the local database to the cloud and thus make specific queries for each client.
 
-Para problemas de segurança, escrevi uma camada de autenticação e autorização baseado na [RFC6759](https://datatracker.ietf.org/doc/html/rfc6750) Oauth2.0 isso foi escrito em NodeJS.
+For security issues I have written an authentication and authorization layer based on [RFC6759](https://datatracker.ietf.org/doc/html/rfc6750) Oauth2.0 this was written in NodeJS.
 
-Durante o desenvolvimento deste serviço, surgiu a necessidade de testar o fluxo do oauth2, foi quando descobri o poder dos testes unitários e de integração utilizado mochajs e chaijs
+During the development of this service, the need arose to test the oauth2 flow, that's when I discovered the was necessary to implement unit and integration testing using mochajs and chaijs
 
 <br/>
 
